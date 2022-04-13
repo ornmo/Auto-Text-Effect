@@ -1,7 +1,7 @@
-This project is made of background images that expand when clicked on. 
+This project is an auto typing/ text effect that has a speed control that can be changed by the User
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- The text (minus the speed control) can be used on hero banners
